@@ -24,7 +24,7 @@ This is a simple QR Code Generator built with Python using the Tkinter library. 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/qrcode-generator.git
+   git clone https://github.com/petboa/qrcode-generator.git
    ```
 
 2. Change to the project directory:
